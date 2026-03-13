@@ -1,5 +1,12 @@
 # GenoTech Frontend
 
+## 🔗 Repositórios do Projeto
+
+Este projeto faz parte da plataforma **GenoTech**, que é dividida em dois repositórios:
+
+- 🖥 Backend: https://github.com/Rochagx/genotech-backend
+- 🎨 Frontend: https://github.com/Rochagx/genotech-frontend
+
 Este é o repositório do frontend para o projeto GenoTech, uma plataforma educacional interativa focada em genética e biotecnologia.
 
 ## Funcionalidades
